@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Papa from 'papaparse';
 
 const SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRkOJoNqbem9kUXbfFV0UkMzDr6GlBt6zaio_WYLnDhYduZtfSWEzJxjI83NNTFZU_rV4atXkuEJp3k/pub?output=csv";
-const SHEET_EDIT_URL = "https://docs.google.com/spreadsheets/d/1bKUYd2edhKnUS8xW6LCbVE1LXVP0J_-UiFjBJC71Wp0/edit";
+const SHEET_EDIT_URL = "https://docs.google.com/spreadsheets/d/1LVtu5MNBQtwSQJKZlMJecnsHJ6NWdn6Fd89Ef2tX-iY/edit?usp=sharing";
 
 const categoryColors = {
   "Recruitment": { bg: "#FEF3C7", border: "#F59E0B", text: "#92400E" },
