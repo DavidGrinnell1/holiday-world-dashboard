@@ -196,7 +196,7 @@ export default function Dashboard() {
         <div className="max-w-7xl mx-auto px-6 py-5">
           <div className="flex items-center justify-between">
             <div>
-              <img src="https://www.holidayworld.com/app/themes/developer-starter/assets/images/holiday-world-logo.svg" alt="Holiday World" className="h-12 w-auto mb-1" />
+              <img src="/holiday-world-logo-2.svg" alt="Holiday World" className="h-12 w-auto mb-1" />
               <p className="text-slate-400 text-sm">2026 Campaign Production Calendar</p>
             </div>
             <div className="flex items-center gap-6">
