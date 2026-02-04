@@ -196,12 +196,7 @@ export default function Dashboard() {
         <div className="max-w-7xl mx-auto px-6 py-5">
           <div className="flex items-center justify-between">
             <div>
-              <div className="flex items-center gap-3 mb-1">
-                <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center">
-                  <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707" />
-                  </svg>
-                </div>
+              <img src="https://www.holidayworld.com/app/themes/developer-starter/assets/images/holiday-world-logo.svg" alt="Holiday World" className="h-12 w-auto" />
                 <h1 className="text-2xl font-semibold gradient-text">Holiday World</h1>
               </div>
               <p className="text-slate-400 text-sm">2026 Campaign Production Calendar</p>
